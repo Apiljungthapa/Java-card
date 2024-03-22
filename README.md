@@ -32,8 +32,7 @@ The Java Bank Card System is designed to simulate the functionalities of a real-
 - Java Programming Language
 - Object-Oriented Programming (OOP) Concepts
 - Java Standard Library (java.util, java.io, etc.)
-- Encryption and Hashing Algorithms (e.g., SHA-256)
-- User Interface (UI) Components (JavaFX, Swing, etc.)
+
 
 ## Contributing
 
